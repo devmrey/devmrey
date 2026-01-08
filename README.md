@@ -6,7 +6,10 @@ Atuando no mercado há mais de 13 anos desenvolvendo Relatórios, Dashboards, An
 
 Conhecimento acumulado em Excel, Google Sheets, Apps Script, PowerBI, Looker Studio, Desenvolvimento Web FullStack.
 
+LinkedIn: "[Reinaldo José](https://www.linkedin.com/in/reinaldojose/)".
+<br/>
 YouTube pessoal: "[Virus Trojan](https://www.youtube.com/@virustrojangen-win3259)".
+<br/>
 Instagram pessoal: "[Dj M Rey](https://www.instagram.com/dev_em_dev/)".
 
 <p align="left">
