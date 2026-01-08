@@ -116,6 +116,46 @@ Instagram pessoal: "[Dj M Rey](https://www.instagram.com/dev_em_dev/)".
     style="padding-right: 10px;" 
     src="https://img.icons8.com/fluency/48/power-bi-2021.png" 
 />
+<img 
+    align="left" 
+    alt="Looker Studio" 
+    title="Looker Studio"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://img.icons8.com/color/48/google-looker.png" 
+/>
+<img 
+    align="left" 
+    alt="Apps Script" 
+    title="Apps Script"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_Apps_Script.svg" 
+/>
+<img 
+    align="left" 
+    alt="Google Sheets" 
+    title="Google Sheets"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://img.icons8.com/external-those-icons-flat-those-icons/24/external-Google-Sheets-logos-and-brands-those-icons-flat-those-icons.png" 
+/>
+<img 
+    align="left" 
+    alt="Excel" 
+    title="Excel"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://img.icons8.com/fluency/48/microsoft-excel-2019.png" 
+/>
+<img 
+    align="left" 
+    alt="Linux" 
+    title="Linux"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://img.icons8.com/external-those-icons-flat-those-icons/24/external-Linux-logos-and-brands-those-icons-flat-those-icons.png" 
+/>
 
 <br/>
 <br/>
