@@ -4,7 +4,7 @@
 
 Atuando no mercado há mais de 13 anos desenvolvendo Relatórios, Dashboards, Análise de Dados e Tranformação Digital para alavancar negócios, melhorar processos, elevar qualidade e garantir competividade em um mundo cada vez mais tecnológico, conectado e data-driven.
 
-Conhecimento acumulado em Excel, Google Sheets, Apps Script, PowerBI, Looker Studio, Desenvolvimento Web FullStack.
+Expert em Excel, Google Sheets, automação com Apps Script e conhecimento acumulado em PowerBI, Looker Studio, Desenvolvimento Web FullStack.
 
 LinkedIn: "[Reinaldo José](https://www.linkedin.com/in/reinaldojose/)".
 <br/>
