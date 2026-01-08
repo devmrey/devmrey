@@ -2,7 +2,12 @@
 
 **`Desenvolvedor FullStack`**
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. meu canal no YouTube "[Virus Trojan](https://www.youtube.com/@virustrojangen-win3259)" e também através do Instagram, com o perfil chamado "[Dj M Rey](https://www.instagram.com/dev_em_dev/)".
+Atuando no mercado há mais de 13 anos desenvolvendo Relatórios, Dashboards, Análise de Dados e Tranformação Digital para alavancar negócios, melhorar processos, elevar qualidade e garantir competividade em um mundo cada vez mais tecnológico, conectado e data-driven.
+
+Conhecimento acumulado em Excel, Google Sheets, Apps Script, PowerBI, Looker Studio, Desenvolvimento Web FullStack.
+
+YouTube pessoal: "[Virus Trojan](https://www.youtube.com/@virustrojangen-win3259)".
+Instagram pessoal: "[Dj M Rey](https://www.instagram.com/dev_em_dev/)".
 
 <p align="left">
     <a href="https://www.youtube.com/@virustrojangen-win3259?sub_confirmation=1">
@@ -102,6 +107,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="PowerBI" 
+    title="PowerBI"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://img.icons8.com/fluency/48/power-bi-2021.png" 
 />
 
 <br/>
